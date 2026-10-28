@@ -1,3 +1,5 @@
+![image_alt](https://github.com/anupgitH/CreatorAI-Studio/blob/920dc3f4bfb689d73c15ebfc21928aa7d463de22/CreatorStudio.png)
+
 # CreatorAI Studio — Upload & AI-Assisted Video Editing
 
 A local-first full-stack starter for editing uploaded clips and generating voiceovers.
